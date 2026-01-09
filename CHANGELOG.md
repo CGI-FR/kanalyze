@@ -14,6 +14,6 @@ Types of changes
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
-## [0.1.0] 2025-11-22
+## [0.1.0] 2026-01-09
 
 - `Added` Minimal viable product
