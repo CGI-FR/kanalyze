@@ -1,4 +1,4 @@
-module github.com/adrienaury/kanalize
+module github.com/cgi-fr/kanalyze
 
 go 1.25
 
